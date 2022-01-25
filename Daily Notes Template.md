@@ -1,4 +1,3 @@
-```
 ---
 publish: true
 created: <% tp.file.creation_date("YYYY-MM-DD") %>
@@ -71,4 +70,3 @@ Negative::
 Want to Improve::
 
 Day Rating::
-```
